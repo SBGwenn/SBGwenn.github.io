@@ -22,15 +22,17 @@ Song by Anees feat. JRoa
 Song by Moira Dela Torre
 >[Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home)
 >
->[Listen](https://open.spotify.com/track/0rZRTXEmmPmx6gt92tBqIc?autoplay=true)
+>[Listen](https://open.spotify.com/album/0rZRTXEmmPmx6gt92tBqIc)
 
-<iframe width="688" height="387" src="https://www.youtube.com/embed/t4hpyNoDXyM" title="Tagpuan Lyrics - Moira dela Torre (Song and Lyrics Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <iframe width="688" height="387" src="https://www.youtube.com/embed/t4hpyNoDXyM" title="Tagpuan Lyrics - Moira dela Torre (Song and Lyrics Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
 - ## **Babalik sa'yo**
 Song by Moira Dela Torre
 >[Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home)
 >
->[Listen](https://open.spotify.com/search/babalik%20sayo)
+>[Listen](https://open.spotify.com/album/7en4maCMHGQiqfUU6oTGuM)
 
 <iframe width="491" height="276" src="https://www.youtube.com/embed/gBpVonecq3I" title="Moira Dela Torre - Babalik Sa'yo (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
