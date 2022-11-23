@@ -13,7 +13,7 @@ ___
 - ## **Sun and Moon**
 > Song by Anees feat. JRoa
 
-| [Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home) | [Listen](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) |
+| [Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home) | [Listen](https://open.spotify.com/track/4bUd4H9GN11TlKhJDBUGsc?autoplay=true) |
 | --- | --- |
 
 <iframe width="888" height="500" src="https://www.youtube.com/embed/Y7oydsPgd6Q" title="Anees - Sun and Moon Remix (ft. JROA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ ___
 - ## **Tagpuan**
 > Song by Moira Dela Torre
 
-| [Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home) | [Listen](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) |
+| [Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home) | [Listen](https://open.spotify.com/track/0rZRTXEmmPmx6gt92tBqIc?autoplay=true) |
 | --- | --- |
 
 <iframe width="688" height="387" src="https://www.youtube.com/embed/t4hpyNoDXyM" title="Tagpuan Lyrics - Moira dela Torre (Song and Lyrics Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
