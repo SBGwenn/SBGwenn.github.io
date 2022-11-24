@@ -1,5 +1,6 @@
 # **Sound Trip**
 welcom to sbgwenn.github.io
+
 ___
 
 - ## **Moon**
@@ -40,5 +41,25 @@ Song by Moira Dela Torre
 
 <p align="center">
   <iframe width="491" height="276" src="https://www.youtube.com/embed/gBpVonecq3I" title="Moira Dela Torre - Babalik Sa'yo (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+
+- ## **Mahika**
+Song by Adie and Janine Berdin
+>[Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home)
+>
+>[Listen](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy)
+
+<p align="center">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/9tLglpFAyIg" title="Adie, Janine Berdin - Mahika (Official Lyric Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+
+- ## **Buwan**
+Song by Juan Karlos
+>[Lyrics](https://sites.google.com/gbox.adnu.edu.ph/sbwenn-github-io/home)
+>
+>[Listen](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1)
+
+<p align="center">
+  <iframe width="1128" height="635" src="https://www.youtube.com/embed/GdX-Dqe6tHg" title="Juan Karlos - Buwan (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
