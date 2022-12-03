@@ -1,5 +1,5 @@
 # 🎵**Sound Trip**🎵
-welcom to sbgwenn.github.io
+welcome to sbgwenn.github.io
 
 ___
 
